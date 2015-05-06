@@ -1,7 +1,7 @@
 
   'use strict';
 
-  var jQuery = require('jQuery');
+  var jQuery = require('jquery');
 
   //<editor-fold desc="Shims">
   if (!String.prototype.includes) {
